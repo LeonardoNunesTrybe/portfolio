@@ -1,0 +1,32 @@
+    .corpoPrincipal {
+        background-color: black; color: white;
+    }
+
+    .headder {
+        font-family: monospace;
+    }
+
+    .paragrafo {
+        color: blue;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    .habilidades {
+        background-color: rgb(110, 238, 189); 
+        color: black
+    }
+
+    .lista01 {
+        color: blueviolet;
+    }
+
+    .lista02 {
+        color: rgb(204, 21, 67);
+    }
+
+    .lista03 {
+        color: rgb(255, 21, 197);
+    }
+
+
+
